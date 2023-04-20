@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>Catherine Johnson</title>
+</head>
+<body style="background-color:#1c87c9;"></body>
+<body>
+    <h1>Major: Media arts and Design
+        Concentration: Digital Video and Cinema
+        Year: Senior
+        Graduation date: December 2023
+    </h1>
+</body>
+<h2>In my future career, I am looking for an inspiring company that allows me to show off my creative talents.
+    Having employees who have similar mindsets always creates a positive environment that helps thoughts flow 
+    without any doubts. 
+</h2>
+<h3>SMAD 203 Portfolio</h3>
+<a>href="file:///C:/Users/catjo/Downloads/annotated-Project%25202.pdf"</a>
+<a>href=file:///C:/Users/catjo/Downloads/annotated-Project%25201%2520203.docx.pdf"</a>
+<style>p{color:black;}</style>
+<p class="paragraph1">Paragraph 1</p>
